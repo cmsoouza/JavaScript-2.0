@@ -1,0 +1,1 @@
+console.log('JavaScript é Muito Legal!!!');//uma sentença de codigo
