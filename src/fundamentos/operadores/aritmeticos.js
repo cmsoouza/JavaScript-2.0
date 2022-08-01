@@ -17,6 +17,6 @@ console.log(soma, subtracao, multiplicacao, divisao, modulo);
  *      *: multiplicação
  *      /: divisão
  *
- *  Mais sobre operadpres no link abaixo
+ *  ****link para pesquisa;
  *  https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressões_Aritméticas
  */
