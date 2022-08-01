@@ -16,7 +16,8 @@ const d2 = new Date(0);
 // Compara se as datas são iguais (endereços de memória)
 console.log("09)", d1 === d2);
 console.log("10)", d1 == d2);
-//
+
+// Compara se as datas são diferentes (endereços de memórias diferentes)
 console.log("11)", d1.getTime() === d2.getTime());
 console.log("12)", d1.getTime() == d2.getTime());
 

@@ -4,7 +4,7 @@ const soma = a + b + c + d;
 const subtracao = d - b;
 const multiplicacao = a * b;
 const divisao = c / d;
-const modulo = a % 2;
+const modulo = a % 2; // resto da divisão
 
 console.log(soma, subtracao, multiplicacao, divisao, modulo);
 
